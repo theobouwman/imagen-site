@@ -4,7 +4,7 @@ title:  "Privacy Policy"
 date:   2023-01-09 16:25:56 +0100
 categories: jekyll update
 ---
-h2>Privacy Policy</h2>
+<h2>Privacy Policy</h2>
 <p>Theo Bouwman built the Imagen app as a commercial app. This SERVICE is provided by Theo Bouwman at no cost and is intended
     for use as is.</p>
 <p>This page is used to inform website visitors regarding my policies with the collection, use, and
